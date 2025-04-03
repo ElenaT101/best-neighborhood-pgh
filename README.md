@@ -1,10 +1,10 @@
 # Best Neighborhood in Pittsburgh - Final Project
 
 ## Team Name
-Solo Squirrel Squad
+Squirrel Squad
 
 ## Team Member
-- Elena Tamba (elt123@pitt.edu)
+- Elena Tamba (elt160@pitt.edu)
 
 ## Project Summary
 This project analyzes Squirrel Hill North using real WPRDC datasets to determine if it is Pittsburgh’s best neighborhood. Metrics include income per household, public assistance usage, and crime rates.
