@@ -21,7 +21,7 @@ Each dataset was cleaned, normalized, and merged to calculate a composite **Safe
 |--------------------|------------------------------|--------|
 | 🏡 Home Value       | Property Value Estimates      | [WPRDC](https://data.wprdc.org/dataset/property-assessments) |
 | 🚓 Arrest Records   | Police Arrest Data            | [WPRDC](https://data.wprdc.org/dataset/arrest-data) |
-| 🛑 Police Incidents | Police Blotter Reports        | [WPRDC](https://data.wprdc.org/dataset/police-blotter) |
+| 🛑 Fire Incidents | Fire Reports        | [WPRDC](https://data.wprdc.org/dataset/police-blotter) |
 
 Each dataset was analyzed individually and then aggregated using a simple, equal-weighted average to create a final **Safety Score** for each neighborhood.
 
